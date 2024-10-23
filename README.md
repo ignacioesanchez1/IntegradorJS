@@ -3,7 +3,39 @@ Trabajo Práctico Integrador de Html_Css_JavaScript.
 Se trata de un Sistema de Gestión de Pedidos para una Empresa de Comidas.
 
 
-Se deja algunos links que puden ser útiles al momento de la ejecucion del proyecto.
+
+
+Requisitos Previos
+----------------------------------------------------------------------------------------
+Para ejecutar este proyecto, necesitas tener instalado:
+
+1. Node.js (versión 14 o superior)
+2. npm (gestor de paquetes de Node.js)
+
+Instalación
+----------------------------------------------------------------------------------------
+Clona el repositorio:
+
+git clone https://github.com/ignacioesanchez1/IntegradorJS.git
+
+Navega al directorio del proyecto:
+----------------------------------------------------------------------------------------
+
+cd IntegradorJs
+
+Instala las dependencias:
+----------------------------------------------------------------------------------------
+npm install
+
+Uso
+----------------------------------------------------------------------------------------
+Para iniciar el servidor de desarrollo, ejecuta:
+
+npm run dev
+
+
+Se deja algunos links que puden ser útiles al momento de la ejecucion del proyecto:
+----------------------------------------------------------------------------------------
 
 HAMBURGUESAS
 
